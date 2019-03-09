@@ -1,0 +1,1 @@
+This is DZExtConfigData Plugin ,CopyRight by BaiPao_XD
